@@ -26,7 +26,7 @@ Website ini memiliki dua jenis pengguna:
 - Melacak status pesanan
 
 📊 Class Diagram:
-Classdiagram.jpg
+Classdiagram.png
 
 🚀 Cara Menjalankan
 1. Import `catering.sql` ke MySQL  
