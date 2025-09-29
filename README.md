@@ -25,7 +25,7 @@ Website ini memiliki dua jenis pengguna:
 - Pemesanan via WhatsApp
 - Melacak status pesanan
 
-📊 Class Diagram
+📊 Class Diagram:
 Classdiagram.jpg
 
 🚀 Cara Menjalankan
